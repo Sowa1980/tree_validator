@@ -1,7 +1,7 @@
 # Стиль Визуалия деревьев ![icon](https://github.com/Sowa1980/tree_validator_Styles/blob/master/iconka.png) 
 Стиль для [JOSM](https://josm.openstreetmap.de/), служит для детальной Визуалия деревьев в програме.
 
-![icon] https://github.com/Sowa1980/tree_validator_Styles/blob/master/dee8d6fc0b8dfdf108efe07dba09491b.png
+![icon](https://github.com/Sowa1980/tree_validator_Styles/blob/master/dee8d6fc0b8dfdf108efe07dba09491b.png)
 ### Основана [на вики страницы](https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box)
 ### Языки локализации: 
 Русский.
