@@ -1,4 +1,4 @@
-# Стиль Визуалия деревьев ![icon](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/letter_box.png) 
+# Стиль Визуалия деревьев ![icon](https://github.com/Sowa1980/tree_validator_Styles/blob/master/iconka.png) 
 Заготовок тегов для [JOSM](https://josm.openstreetmap.de/), служит для указания Абонентских почтовыв ящиков.
 ### Основана [на вики страницы](https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box)
 ### Языки локализации: 
