@@ -1,4 +1,4 @@
-# Стиль Визуалия деревьев
+# Визуалия деревьев
 Стиль для [JOSM](https://josm.openstreetmap.de/), служит для детальной Визуалия деревьев в програме.
 
 ![icon](https://github.com/Sowa1980/tree_validator_Styles/blob/master/dee8d6fc0b8dfdf108efe07dba09491b.png)
