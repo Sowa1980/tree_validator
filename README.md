@@ -1,5 +1,5 @@
 # Визуалия деревьев
-Стиль для [JOSM](https://josm.openstreetmap.de/), служит для детальной визуалия деревьев в програме и облегчению картированию деревьев в программе.
+Стиль для [JOSM](https://josm.openstreetmap.de/), служит для визуалиции и облегчения картирования деревьев в программе.
 
 ![icon](https://github.com/Sowa1980/tree_validator_Styles/blob/master/dee8d6fc0b8dfdf108efe07dba09491b.png)
 ### Языки локализации: 
