@@ -1,7 +1,7 @@
 
 meta
 {
-  title: "Визуалия деревьев";
+  title: "tree visualization";
   author: "Панкратов Александр Владимирович https://www.openstreetmap.org/user/Sowa1980";
   version: "1.5_2020-11-15";
   description: "Визуалия деревьев";
@@ -9,7 +9,8 @@ meta
 }
 meta[lang=ru] {
     title: "Визуалия деревьев";
-    description: "Визуальное отображение деревьев и сопутствующих объектов";
+    author: "Панкратов Александр Владимирович https://www.openstreetmap.org/user/Sowa1980";
+	description: "Визуальное отображение деревьев и сопутствующих объектов";
 }
 
 /* Деревья Фруктовые 2 */
