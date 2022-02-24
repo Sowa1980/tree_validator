@@ -4,7 +4,7 @@ meta
   title: "tree visualization";
   author: "Панкратов Александр Владимирович https://www.openstreetmap.org/user/Sowa1980";
   version: "1.5_2020-11-15";
-  description: "Визуалия деревьев";
+  description: "Visual display of trees and related objects";
   icon: "iconka.png";
 }
 meta[lang=ru] {
