@@ -373,7 +373,7 @@ node[genus=Musa]::ttttttt
   text-position: center;
   text-halo-radius: 3;
   text-halo-color: white;
-  icon-image: Grass/Musa.svg;
+  icon-image: Grass/Musa.png;
   icon-width: 40;
 }
 
