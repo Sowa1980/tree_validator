@@ -77,7 +77,7 @@ node[natural=tree][genus=Prunus_subgen_Cerasus]::tt
   text-position: center;
   text-halo-radius: 3;
   text-halo-color: white;
-  icon-image: Frukt/Вишня_pf.png;
+  icon-image: Frukt/Prunus_subgen_Cerasus.png;
   icon-width: 40;
 }
 
