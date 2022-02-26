@@ -25,7 +25,7 @@ node[natural=tree][genus=Malus]::tt
   text-position: center;
   text-halo-radius: 3;
   text-halo-color: white;
-  icon-image: Frukt/Malus3_pf.png;
+  icon-image: Frukt/Malus.png;
   icon-width: 40;
 }
 
@@ -38,7 +38,7 @@ node[natural=tree][genus=Pyrus]::tt
   text-position: center;
   text-halo-radius: 3;
   text-halo-color: white;
-  icon-image: Frukt/Pyrus_pf.png;
+  icon-image: Frukt/Pyrus.png;
   icon-width: 30;
 }
 
