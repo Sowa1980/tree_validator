@@ -51,7 +51,7 @@ node[natural=tree][genus=Prunus]::tt
   text-position: center;
   text-halo-radius: 3;
   text-halo-color: white;
-  icon-image: Frukt/prugna5.png;
+  icon-image: Frukt/prugna-png-5.png;
   icon-width: 40;
 }
 
